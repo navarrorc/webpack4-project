@@ -1,4 +1,5 @@
 import "./styles.css";
+import "./index.html";
 
 console.log("using webpack 4 successfully!");
 
